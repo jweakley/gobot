@@ -5,11 +5,11 @@ Holiday Hackathon Robot.
 
 ##Hardware:
 * [Arduino Uno R3](https://www.sparkfun.com/products/11021)
-* [Boe Bot kit](https://www.sparkfun.com/products/11494)
-* 
+* [Boe Bot Kit](https://www.sparkfun.com/products/11494)
+
 ##Software
 * [Johnny-Five](https://github.com/rwaldron/johnny-five)
-* 
+
 ##Pictures
 The starting point for the hackathon.
 ![workbench](https://raw.github.com/jweakley/gobot/master/pictures/workbenchStart.JPG)
