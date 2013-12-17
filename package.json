@@ -1,0 +1,25 @@
+{
+  "name": "gobot",
+  "version": "0.0.0",
+  "description": "Holiday Hackathon Robot",
+  "dependencies": {
+      "johnny-five": "",
+      "temporal": "",
+      "nanotimer": "",
+      "change-case": "",
+      "lodash": ""
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jweakley/gobot.git"
+  },
+  "author": "Joe Weakley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jweakley/gobot/issues"
+  }
+}
